@@ -5,7 +5,7 @@
 <h3 class="code-line" data-line-start=1 data-line-end=2 ><a id="e_u_n_j_u__p_a_r_k__1"></a>🌿 e u n j u . p a r k 🌿</h3>
 <p class="has-line-data" data-line-start="3" data-line-end="4">📧 <a href="mailto:rustywhite404@gmail.com">rustywhite404@gmail.com</a> 📧</p>
 <p class="has-line-data" data-line-start="5" data-line-end="6">🐣 <a href="https://rustywhite404.github.io/">https://rustywhite404.github.io/</a> 🐣</p>  
-삶의 해상도를 높이고 싶은 개발자/디자이너 <br />
+삶의 해상도를 높이고 싶은 개발자/디자이너 <br /> <br /> 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frustywhite404%2Frustywhite404&count_bg=%23555555&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" style="margin-top:20px;"/></a>
 </div>  
 
